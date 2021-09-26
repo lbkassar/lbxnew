@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @lbxnew
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @lbkassar
+- 👀 I’m interested in unity 3d and kali linux 
+- 🌱 I’m currently learning software engineering and automation in second year
+- 💞️ I’m looking to collaborate on a progect
+- 📫 How to reach me :insta "https://www.instagram.com/k__a7md/"
 
 <!---
 lbxnew/lbxnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
