@@ -19,7 +19,7 @@ HOW TO USE !!!
 3-add all scripts in the same part from compnent like the foto 
 
 
-![2021-09-27 (1)](https://user-images.githubusercontent.com/82063618/134909252-239bc1c0-68de-42a4-a765-46021e422974.png)
+![2021-09-27 (2)](https://user-images.githubusercontent.com/82063618/134909344-bc275bb2-b234-43bf-9433-31de9f4f7952.png)
 
 
 4-Enjoy ;)
