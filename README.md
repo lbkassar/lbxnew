@@ -18,7 +18,8 @@ You can click the Preview link to take a look at your changes.
 
 3-add all scripts in the same part from compnent like the foto 
 
-![2021-01-13 (2)](https://user-images.githubusercontent.com/82063618/134908725-fbb7f1fa-ebb9-4a65-acb3-01c0997747e7.png)
+
+![2021-09-27](https://user-images.githubusercontent.com/82063618/134908885-84e29b08-61da-4fb8-90f7-20bef1f6993d.png)
 
 
 4-Enjoy ;)
