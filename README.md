@@ -28,10 +28,12 @@ HOW TO USE !!!
 3-add all scripts in the same part from compnent like the foto 
 
 
-![2021-09-27 (2)](https://user-images.githubusercontent.com/82063618/134909344-bc275bb2-b234-43bf-9433-31de9f4f7952.png)
+![2021-09-27 (2)](https://user-images.githubusercontent.com/82063618/134909344-bc275bb2-b234-43bf-9433-31de9f4f7952.png)the 
+
+4-For the player animation drop the file "Invector@MeleeCombat.controller" in the animation component "animator"
 
 
-4-Enjoy ;)
+5-Enjoy ;)
 
 IF YOU WANT YOU CAN SEE A SHORT VIDEO HERE: 
 
