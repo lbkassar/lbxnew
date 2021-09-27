@@ -20,12 +20,12 @@ You can click the Preview link to take a look at your changes.
 --->
 HOW TO USE !!!
 
-1-open the unity engine 
+1-Open the unity engine 
 
-2-download the script and drop him in the player with a character controller and rigibody from (add component )
+2-Download the script and drop him in the player with a character controller and rigibody from (add component )
 
 
-3-add all scripts in the same part from compnent like the foto 
+3-Add all scripts in the same part from compnent like the foto 
 
 
 ![2021-09-27 (2)](https://user-images.githubusercontent.com/82063618/134909344-bc275bb2-b234-43bf-9433-31de9f4f7952.png)the 
