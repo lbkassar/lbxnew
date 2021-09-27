@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="https://img.shields.io/badge/Author-LBKASSAR-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/MADE%20IN-LIBANON-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-C#-cyan?style=flat-square">
+</p>
+
+
+
 - 👋 Hi, I’m @lbkassar
 - 👀 I’m interested in unity 3d and kali linux 
 - 🌱 I’m currently learning software engineering and automation in second year
