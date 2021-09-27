@@ -9,8 +9,8 @@
 lbxnew/lbxnew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+HOW TO USE !!!
 
-###how to use?
 1-open the unity engine 
 
 2-download the script and drop him in the player with a character controller and rigibody from (add component )
@@ -19,7 +19,8 @@ You can click the Preview link to take a look at your changes.
 3-add all scripts in the same part from compnent like the foto 
 
 
-![2021-09-27](https://user-images.githubusercontent.com/82063618/134908885-84e29b08-61da-4fb8-90f7-20bef1f6993d.png)
+
+![2021-09-27 (1)](https://user-images.githubusercontent.com/82063618/134908972-b1243ead-25f1-46d7-b7e4-0ada5baf41fb.png)
 
 
 4-Enjoy ;)
